@@ -1,6 +1,6 @@
 class CartService {
   getCartItems = () => {
-    return fetch('/cart-items.json').then((res) => res.json());
+    return fetch('/shopping-cart/cart-items.json').then((res) => res.json());
   };
 }
 
