@@ -58,4 +58,4 @@ Navigate to project folder
 
     yarn start
 
-Your server will be running on port 4000, you can access it by using http://localhost:3000
+Your server will be running on port 3000, you can access it by using http://localhost:3000
