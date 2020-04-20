@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "brand_name": "Milk Food",
+      "product_name": "Milkfood Rich Desi Danedar Ghee (Carton)",
+      "quantity": 11,
+      "price": "Rs 408",
+      "mrp": "MRP 498",
+      "image_url": "/images/milk_food1.jpg",
+      "offer_text": "18% OFF"
+    },
+    {
+      "brand_name": "Saffola Gold",
+      "product_name": "Saffola Gold pure cooking oil, 5L",
+      "quantity": 5,
+      "price": "Rs 725",
+      "mrp": "MRP 799",
+      "image_url": "/images/safola_gold.jpg",
+      "offer_text": "9% OFF"
+    },
+    {
+      "brand_name": "Mother Dairy",
+      "product_name": "Mother Dairy Cow Ghee, 1L",
+      "quantity": 9,
+      "price": "Rs 459",
+      "mrp": "MRP 550",
+      "image_url": "/images/mother_dairy.jpg",
+      "offer_text": "16% OFF"
+    },
+    {
+      "brand_name": "Tata Sampann",
+      "product_name": "Tata Sampann Unpolished Toor Dal/Arhar Dal, 1kg",
+      "quantity": 6,
+      "price": "Rs 125",
+      "mrp": "MRP 125",
+      "image_url": "/images/tata_sampann.jpg",
+      "offer_text": ""
+    },
+    {
+      "brand_name": "Lizol",
+      "product_name": "Lizol Disinfectant Surface Cleaner Citrus 2L",
+      "quantity": 10,
+      "price": "Rs 343",
+      "mrp": "MRP 343",
+      "image_url": "/images/lizol.jpg",
+      "offer_text": ""
+    },
+    {
+      "brand_name": "Kohinoor",
+      "product_name": "Kohinoor Charminar Rozana Basmati Rice, 5kg",
+      "quantity": 15,
+      "price": "Rs 349",
+      "mrp": "MRP 470",
+      "image_url": "/images/kohinoor.jpg",
+      "offer_text": "25% OFF"
+    },
+    {
+      "brand_name": "Parachute",
+      "product_name": "Parachute Advansed Jasmine Coconut Hair Oil",
+      "quantity": 8,
+      "price": "Rs 175",
+      "mrp": "MRP 185",
+      "image_url": "/images/parachute.png",
+      "offer_text": "5% OFF"
+    },
+    {
+      "brand_name": "Dove",
+      "product_name": "Dove Hair fall Rescue Shampoo, 1 ltr",
+      "quantity": 18,
+      "price": "Rs 555",
+      "mrp": "MRP 555",
+      "image_url": "/images/dove.jpg",
+      "offer_text": ""
+    },
+    {
+      "brand_name": "Surf Excel",
+      "product_name": "Surf Excel Top Load Matic Liquid Detergent Pouch",
+      "quantity": 20,
+      "price": "Rs 330",
+      "mrp": "MRP 370",
+      "image_url": "/images/surf_exel.jpg",
+      "offer_text": "10% OFF"
+    },
+    {
+      "brand_name": "Santoor",
+      "product_name": "Santoor PureGlo Glycerine Soap with Almond Oil ",
+      "quantity": 8,
+      "price": "Rs 238",
+      "mrp": "MRP 378",
+      "image_url": "/images/santoor.jpg",
+      "offer_text": "37% OFF"
+    }
+  ]
+}
