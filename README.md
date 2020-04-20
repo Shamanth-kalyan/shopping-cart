@@ -6,7 +6,7 @@ In the project directory, you can run:
 
   
 
-### `npm start`
+### `yarn start`
 
   
 
@@ -22,7 +22,7 @@ You will also see any lint errors in the console.
 
   
 
-### `npm test`
+### `yarn test`
 
   
 
@@ -32,7 +32,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
   
 
-### `npm build`
+### `yarn build`
 
   
 
@@ -54,13 +54,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Steps to run the project
 #### Step 1
-Navigate to **/server** folder
+Navigate to project folder
 
-    npm start
+    yarn start
 
-#### Step 2
-Navigate to **/src** folder
-
-    npm run build
-
-Your server will be running on port 4000, you can access it by using http://localhost:4000
+Your server will be running on port 4000, you can access it by using http://localhost:3000
